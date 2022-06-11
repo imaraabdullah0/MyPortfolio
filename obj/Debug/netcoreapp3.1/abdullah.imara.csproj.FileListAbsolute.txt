@@ -1,0 +1,13 @@
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/bin/Debug/netcoreapp3.1/abdullah.imara.deps.json
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/bin/Debug/netcoreapp3.1/abdullah.imara.runtimeconfig.json
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/bin/Debug/netcoreapp3.1/abdullah.imara.runtimeconfig.dev.json
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/bin/Debug/netcoreapp3.1/abdullah.imara.dll
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/bin/Debug/netcoreapp3.1/abdullah.imara.pdb
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.AssemblyInfo.cs
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.dll
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.pdb
+/Users/macbook/Desktop/sico uav/abdullah.imara/abdullah.imara/obj/Debug/netcoreapp3.1/abdullah.imara.genruntimeconfig.cache
