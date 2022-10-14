@@ -1,0 +1,31 @@
+//chickPoint NO:1
+
+var array1 = [1,2,3,4];
+var array2 = [5,6,7,8];
+
+var sum = array1.map(function (num, idx) {
+  return num + array2[idx];
+}); // [6,8,10,12]
+
+
+// ---------------------------------------------------------------------
+
+//chickPoint NO:2
+var array = [3,2,10,1] = function(array){
+    for(var i = 0; i < array.length; i++){
+      //set min 
+      var min = i;
+      for(var j = i+1; j < array.length; j++){
+        if(array[j] < array[min]){
+         min = j;
+        }
+      }
+      var temp = array[i];
+      array[i] = array[min];
+      array[min] = temp;
+    }
+    return array;
+  };
+  
+  console.log(array);
+//   output of concole will return >> [1,2,3,10]
